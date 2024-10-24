@@ -1,0 +1,25 @@
+If we are going with a schizophrenia theme:
+
+(theses are all just ideas)
+
+1. implement a sanity function. Higher chances of "episodes" happening. 
+	the lower the sanity the riskier it is for the player
+
+2. Continuing on the sanity function; implement an entity that can chase the player if sanity is too low. 
+
+3. The goal should be escaping somewhere (can be a forest, house, ect.)
+
+4. Implement a field of vision; the player can only see what's in their fov. 
+	Maybe have the mouse dictate where the player is looking. Anything
+	outside of the player's fov is blurred and some objects and entites
+	are invisible. 
+			      ^
+these are just game mechanics |
+
+
+Story:
+
+IDK
+Anything that is in parenthesis is subject to change 
+
+You wake up in a (forest). You don't remember who you are and how you got there. 
