@@ -5693,7 +5693,7 @@ sources/1 = SubResource("TileSetAtlasSource_dlbpk")
 sources/2 = SubResource("TileSetAtlasSource_b6ip6")
 
 [sub_resource type="OccluderPolygon2D" id="OccluderPolygon2D_8j2js"]
-polygon = PackedVector2Array(1009, -105, 1031, -105, 1053, -105, 1053, -26, 1009, -26)
+polygon = PackedVector2Array(1008, -112, 1313, -111, 1314, 99, 1008, 98)
 
 [node name="Main" type="Node2D"]
 
@@ -5712,7 +5712,7 @@ tile_map_data = PackedByteArray("AABAAPv/AAAeAB4AAAA=")
 tile_set = SubResource("TileSet_sidy5")
 
 [node name="LightOccluder2D" type="LightOccluder2D" parent="."]
-position = Vector2(-9, -15)
+position = Vector2(-373, -226)
 occluder = SubResource("OccluderPolygon2D_8j2js")
 
 [node name="Player" parent="." instance=ExtResource("4_iubte")]
